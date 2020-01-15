@@ -8,5 +8,7 @@
 *.sass.map
 *.scss.map
 /img
+/node_modules
+
 
 # End of https://www.gitignore.io/api/sass
